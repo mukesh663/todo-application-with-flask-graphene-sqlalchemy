@@ -1,7 +1,6 @@
 <h1 align="center"> Todo app with flask-graphene-sqlalchemy</h1>
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 
 A simple todo application to keep track of the progress of your daily tasks.
 
