@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  
+  "scripts": {
+    "create-css": "npx tailwindcss -i ./todo/static/src/input.css -o ./todo/static/css/main.css --watch"
+  }
+}
