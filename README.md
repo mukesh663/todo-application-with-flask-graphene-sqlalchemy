@@ -1,1 +1,36 @@
-IjxoMSBhbGlnbj1cImNlbnRlclwiPiBUb2RvIGFwcCB3aXRoIGZsYXNrLWdyYXBoZW5lLXNxbGFsY2hlbXk8L2gxPlxuXG48aW1nIHNyYz1cImh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vc3RhdGljL3YxP2xhYmVsPSVGMCU5RiU4QyU5RiZtZXNzYWdlPUlmJTIwVXNlZnVsJnN0eWxlPXN0eWxlPWZsYXQmY29sb3I9QkM0RTk5XCIgYWx0PVwiU3RhciBCYWRnZVwiLz5cblxuQSBzaW1wbGUgdG9kbyBhcHBsaWNhdGlvbiB0byBrZWVwIHRyYWNrIG9mIHRoZSBwcm9ncmVzcyBvZiB5b3VyIGRhaWx5IHRhc2tzLlxuXG4jIyBJbnN0YWxsYXRpb25cblRvIGluc3RhbGwgYWxsIHRoZSByZXF1aXJlZCBsaWJyYXJpZXMgcnVuIHRoZSBmb2xsb3dpbmcgY29tbWFuZC5cblxuYHBpcCBpbnN0YWxsIHJlcXVpcmVtZW50cy50eHRgXG5cblRvIGluc3RhbGwgdGFpbHdpbmQsIHJ1biB0aGUgY29tbWFuZCBiZWxvd1xuXG5gbnBtIGluc3RhbGxgXG5cbiMjIERlbW9cblxuMS4gTGFuZGluZyBwYWdlXG5cbjxpbWcgYWx0PVwiTGFuZGluZ1wiIHNyYz1cImFzc2V0cy8xLnBuZ1wiPiA8L2ltZz5cblxuMi4gQXV0aGVudGljYXRpb24gd2l0aCBrZXljbG9ha1xuXG48aW1nIGFsdD1cImF1dGhcIiBzcmM9XCJhc3NldHMvMi5wbmdcIj4gPC9pbWc+XG5cbjMuIEFkZCB0YXNrc1xuXG48aW1nIGFsdD1cInRhc2tzXCIgc3JjPVwiYXNzZXRzLzMucG5nXCI+IDwvaW1nPlxuXG40LiBQcm8gbGljZW5zZSBwdXJjaGFzZWQgd2l0aCBzdHJpcGVcblxuPGltZyBhbHQ9XCJsaWNlbnNlXCIgc3JjPVwiYXNzZXRzLzQucG5nXCI+IDwvaW1nPlxuXG41LiBHcmFwaFFMIEFQSSBjYWxsc1xuXG48aW1nIGFsdD1cImdyYXBocWxcIiBzcmM9XCJhc3NldHMvNS5wbmdcIj4gPC9pbWc+XG4i
+<h1 align="center"> Todo app with flask-graphene-sqlalchemy</h1>
+
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+
+A simple todo application to keep track of the progress of your daily tasks.
+
+## Installation
+To install all the required libraries run the following command.
+
+`pip install requirements.txt`
+
+To install tailwind, run the following command
+
+`npm install`
+
+## Demo
+
+1. Landing page
+
+<img alt="Landing" src="assets/1.png"> </img>
+
+2. Authentication with keycloak
+
+<img alt="auth" src="assets/2.png"> </img>
+
+3. Add tasks
+
+<img alt="tasks" src="assets/3.png"> </img>
+
+4. Pro license purchased with stripe
+
+<img alt="license" src="assets/4.png"> </img>
+
+5. GraphQL API calls
+
+<img alt="graphql" src="assets/5.png"> </img>
